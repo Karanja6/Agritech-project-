@@ -1,0 +1,88 @@
+body{
+background-image: url("sunny-meadow-landscape.jpg");
+background-position: center;
+background-size: cover;
+background-repeat: no-repeat;
+background-attachment: fixed;
+h1
+{
+    box-shadow: 3px 3px 5px rgb(0, 0, 0);
+    
+}
+p {
+    font-size: larger;
+    color: #000000;
+}
+button
+{
+    background-color: black;
+  color:white;
+}    
+.Thewholebox
+{
+font-size: larger;
+    align-self: center;
+    justify-content: center;
+}
+
+.moreoptions{
+    font-size: larger;
+}
+.error-message {
+    color: #ff0000; 
+}
+}
+form
+{  
+    
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: larger;
+
+button:hover{
+    background-color: rgb(203, 216, 21);
+}
+button:active{
+    background-color:green;
+}}
+a:link
+{
+color: rgb(19, 93, 252);
+font-size: larger;
+font-style: bold;
+text-shadow: 1px 1px 1px#ffffff;
+}
+a:visited{
+    color: blue;
+}
+a:hover
+{
+    color: black;
+}
+a:active
+{
+    color: rgb(255, 0, 55);
+}
+.contact-information{
+    font-size: larger;
+    color: rgb(255, 255, 255);
+    width: 200px;
+    height: 50px;
+    background-color:black;
+    position: fixed; 
+    top: 100px; 
+    right: 0; 
+    padding: 10px;
+  }
+.foot
+{
+position: absolute;
+bottom: 0;
+margin-left: 30%;
+z-index: 5;
+left: 0;
+height: 60px;
+ font-style:normal;
+ font-size: x-large;
+text-shadow: 10px 5px 10px rgb(255, 255, 255);
+background-color: #ffffff;
+}     
